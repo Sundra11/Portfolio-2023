@@ -375,7 +375,7 @@ export const Bio = {
       title: "TM Merdeka",
       date: "Jul 2023 ",
       description:
-        "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+        "Was part of the team of developers that helped in developing the TM Merdeka Website at my time at Aleph",
       image:
         // "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
         "https://1.bp.blogspot.com/-F7pF8YA7bdg/TlSw_RcHylI/AAAAAAAABK0/xbQV9iyCxC8/s1600/partner_tm.jpg",
@@ -465,6 +465,20 @@ export const Bio = {
       image:
         "https://editor.analyticsvidhya.com/uploads/66982lms.jpg",
       tags: ["Android Studio, Firebase, Java"],
+      category: "android app",
+      github: "https://github.com/rishavchanda/Job-finder-App",
+      webapp: "https://github.com/rishavchanda/Job-finder-App",
+    },
+
+    {
+      id: 13,
+      title: "Tic Tac Toe",
+      // date: "Jun 2023 - Jul 2023",
+      description:
+        "Just created a simple Tic Tac Toe application in React",
+      image:
+        "https://raw.githubusercontent.com/kyle-barth/tic-tac-toe/master/tic-tac-toe.PNG",
+      tags: ["ReactJs, javascript, CSS"],
       category: "android app",
       github: "https://github.com/rishavchanda/Job-finder-App",
       webapp: "https://github.com/rishavchanda/Job-finder-App",
